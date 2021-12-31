@@ -1,0 +1,17 @@
+#home {
+  background: #ffc107;
+  color: white;
+}
+.caixa {
+  padding: 60px 0;
+  background: rgba(238, 234, 234, 0.753);
+  border-bottom: 1px solid #e5e5e5;
+}
+
+footer p a {
+  margin: 10px;
+  color: #ffc107;
+}
+footer p a:hover {
+  color: rgb(61, 61, 221);
+}
